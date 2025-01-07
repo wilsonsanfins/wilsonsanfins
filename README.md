@@ -1,6 +1,6 @@
 # Olá! Eu sou o Wilson 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e atualmente estudo **Desenvolvimento de Sistemas**. Meu foco é criar soluções inteligentes que impactam a vida das pessoas.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento e atualmente estou no 3 ano e estudo **Desenvolvimento de Sistemas** na ETEC. Meu foco é criar soluções inteligentes que impactam a vida das pessoas.
 
 ---
 
